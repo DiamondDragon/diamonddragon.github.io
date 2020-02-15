@@ -12,25 +12,7 @@
     
     
     <item>
-      <title>Development</title>
-      <link>https://diamonddragon.github.io/categories/development/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://diamonddragon.github.io/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://diamonddragon.github.io/categories/golang/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://diamonddragon.github.io/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Management</title>
+      <title>management</title>
       <link>https://diamonddragon.github.io/categories/management/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -39,7 +21,7 @@
     </item>
     
     <item>
-      <title>Thoughts</title>
+      <title>thoughts</title>
       <link>https://diamonddragon.github.io/categories/thoughts/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
